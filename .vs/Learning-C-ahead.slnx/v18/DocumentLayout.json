@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\F036_overflow-underflow.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|solutionrelative:F036_overflow-underflow.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\index.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|solutionrelative:index.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\homework.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|solutionrelative:homework.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\GcdRecursive.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|solutionrelative:GcdRecursive.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\Other.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|solutionrelative:Other.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\\u51FD\u6570\u7684\u6CE8\u91CA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|solutionrelative:\u51FD\u6570\u7684\u6CE8\u91CA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "F036_overflow-underflow.c",
+              "DocumentMoniker": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\F036_overflow-underflow.c",
+              "RelativeDocumentMoniker": "F036_overflow-underflow.c",
+              "ToolTip": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\F036_overflow-underflow.c",
+              "RelativeToolTip": "F036_overflow-underflow.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-12T06:55:58.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.c",
+              "DocumentMoniker": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\index.c",
+              "RelativeDocumentMoniker": "index.c",
+              "ToolTip": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\index.c",
+              "RelativeToolTip": "index.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-12T06:55:19.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\u51FD\u6570\u7684\u6CE8\u91CA.c",
+              "DocumentMoniker": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\\u51FD\u6570\u7684\u6CE8\u91CA.c",
+              "RelativeDocumentMoniker": "\u51FD\u6570\u7684\u6CE8\u91CA.c",
+              "ToolTip": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\\u51FD\u6570\u7684\u6CE8\u91CA.c",
+              "RelativeToolTip": "\u51FD\u6570\u7684\u6CE8\u91CA.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-12T06:55:14.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GcdRecursive.c",
+              "DocumentMoniker": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\GcdRecursive.c",
+              "RelativeDocumentMoniker": "GcdRecursive.c",
+              "ToolTip": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\GcdRecursive.c",
+              "RelativeToolTip": "GcdRecursive.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-12T06:55:12.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "homework.c",
+              "DocumentMoniker": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\homework.c",
+              "RelativeDocumentMoniker": "homework.c",
+              "ToolTip": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\homework.c",
+              "RelativeToolTip": "homework.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-12T06:55:07.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Other.c",
+              "DocumentMoniker": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\Other.c",
+              "RelativeDocumentMoniker": "Other.c",
+              "ToolTip": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\Other.c",
+              "RelativeToolTip": "Other.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-12T06:54:59.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
