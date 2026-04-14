@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\index.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|solutionrelative:index.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\homework.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|solutionrelative:homework.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\GcdRecursive.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|solutionrelative:GcdRecursive.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\Other.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|solutionrelative:Other.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\\u51FD\u6570\u7684\u6CE8\u91CA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|solutionrelative:\u51FD\u6570\u7684\u6CE8\u91CA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\208-\u6D41-\u5B9E\u64CD.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E03567E-32A6-4D44-B1B7-049C8AD432EF}|Learning-C-ahead.vcxproj|solutionrelative:208-\u6D41-\u5B9E\u64CD.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,66 +51,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "index.c",
-              "DocumentMoniker": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\index.c",
-              "RelativeDocumentMoniker": "index.c",
-              "ToolTip": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\index.c",
-              "RelativeToolTip": "index.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
+              "Title": "208-\u6D41-\u5B9E\u64CD.c",
+              "DocumentMoniker": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\208-\u6D41-\u5B9E\u64CD.c",
+              "RelativeDocumentMoniker": "208-\u6D41-\u5B9E\u64CD.c",
+              "ToolTip": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\208-\u6D41-\u5B9E\u64CD.c",
+              "RelativeToolTip": "208-\u6D41-\u5B9E\u64CD.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-12T06:55:19.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "\u51FD\u6570\u7684\u6CE8\u91CA.c",
-              "DocumentMoniker": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\\u51FD\u6570\u7684\u6CE8\u91CA.c",
-              "RelativeDocumentMoniker": "\u51FD\u6570\u7684\u6CE8\u91CA.c",
-              "ToolTip": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\\u51FD\u6570\u7684\u6CE8\u91CA.c",
-              "RelativeToolTip": "\u51FD\u6570\u7684\u6CE8\u91CA.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-12T06:55:14.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GcdRecursive.c",
-              "DocumentMoniker": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\GcdRecursive.c",
-              "RelativeDocumentMoniker": "GcdRecursive.c",
-              "ToolTip": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\GcdRecursive.c",
-              "RelativeToolTip": "GcdRecursive.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-12T06:55:12.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "homework.c",
-              "DocumentMoniker": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\homework.c",
-              "RelativeDocumentMoniker": "homework.c",
-              "ToolTip": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\homework.c",
-              "RelativeToolTip": "homework.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-12T06:55:07.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Other.c",
-              "DocumentMoniker": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\Other.c",
-              "RelativeDocumentMoniker": "Other.c",
-              "ToolTip": "D:\\Tool-Devs\\Item-C\\Learning-C-ahead\\Other.c",
-              "RelativeToolTip": "Other.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-12T06:54:59.782Z",
+              "WhenOpened": "2026-04-14T08:52:23.855Z",
               "EditorCaption": ""
             }
           ]

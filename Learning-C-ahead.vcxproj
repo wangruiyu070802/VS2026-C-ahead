@@ -35,6 +35,7 @@
     <ClCompile Include="172-游戏案例_指针练习.c" />
     <ClCompile Include="173-练习更新分数.c" />
     <ClCompile Include="174-游戏案例-收藏奖杯.c" />
+    <ClCompile Include="208-流-实操.c" />
     <ClCompile Include="double&amp;float.c" />
     <ClCompile Include="F036_overflow-underflow.c" />
     <ClCompile Include="frank_019_integer-flow.c" />
